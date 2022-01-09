@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="80mm"
+   height="40mm"
+   viewBox="0 0 79.999998 40.000001"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient41338">
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1;"
+         offset="0"
+         id="stop41336" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer2"
+     style="display:inline">
+    <rect
+       style="fill:#9b6c34;fill-opacity:1;stroke-width:0.232323"
+       id="rect26858"
+       width="80"
+       height="40"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     id="layer1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="2.7356417"
+       y="27.322809"
+       id="text627"><tspan
+         id="tspan625"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:19.7556px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Heavy';fill:#1a1a1a;fill-opacity:1;stroke-width:0.264583"
+         x="2.7356417"
+         y="27.322809">PFUSCH</tspan></text>
+  </g>
+  <g
+     id="layer3"
+     style="display:inline">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.99728;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect39195"
+       width="78.002716"
+       height="38.00272"
+       x="0.99863791"
+       y="0.99863791" />
+  </g>
+</svg>

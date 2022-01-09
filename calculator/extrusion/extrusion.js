@@ -8,5 +8,5 @@ document.getElementById("berechnen").onclick = function(){
 
 
     var ergebnis = (laengeVorher-laengeAktuell).toFixed(2);
-    document.getElementById("ergebnis").innerHTML = ergebnis;
+    document.getElementById("ergebnis").value = ergebnis;
 }
