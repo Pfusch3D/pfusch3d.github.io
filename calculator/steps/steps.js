@@ -8,5 +8,5 @@ document.getElementById("berechnen").onclick = function(){
     istLaenge = parseFloat(istLaenge.toString().replace(",","."));
 
     var ergebnis = ((stepsAktuell*sollLaenge)/istLaenge).toFixed(3);
-    document.getElementById("ergebnis").innerHTML = ergebnis;
+    document.getElementById("ergebnis").value = ergebnis;
 }
